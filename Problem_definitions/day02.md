@@ -22,7 +22,7 @@ tax_percent = 8
 A tip of 15% * 100 = 15, and the taxes are 8% * 100 = 8. Print the value 123 and return from the function.
 
 ### Function Description
-Complete the `solve` function in file `day02.py`.
+Complete the `solve` function in file `day02_Operators.py`.
 
 `solve` has the following parameters:
 
