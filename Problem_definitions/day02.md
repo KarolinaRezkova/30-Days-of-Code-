@@ -1,6 +1,8 @@
 # Day 2: Operators
 
-See the original assignment on [Day 2: Operators | HackerRank](https://www.hackerrank.com/challenges/30-operators/problem)
+See the original assignment on 
+[Day 2: Operators | HackerRank](https://www.hackerrank.com/challenges/30-operators/problem).
+
 ## Objective
 In this challenge, you will work with arithmetic operators.
 

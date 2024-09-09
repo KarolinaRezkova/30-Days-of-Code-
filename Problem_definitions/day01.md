@@ -1,5 +1,8 @@
 # Day 1: Data Types
 
+See the original assignment on 
+[Day 1: Data Types | HackerRank](https://www.hackerrank.com/challenges/30-data-types/problem).
+
 ## Objective
 Today, we're discussing data types.
 

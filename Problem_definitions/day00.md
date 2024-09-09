@@ -1,5 +1,8 @@
 # Day 0: Hello, World.
 
+See the original assignment on 
+[Day 0: Hello, World. | HackerRank](https://www.hackerrank.com/challenges/30-hello-world/problem).
+
 ## Objective
 In this challenge, we review some basic concepts that will get you started with this series.
 
