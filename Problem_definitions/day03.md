@@ -2,8 +2,8 @@
 
 See the original assignment on 
 [Day 3: Intro to Conditional Statements | HackerRank
-](https://www.hackerrank.com/challenges/30-conditional-statements/problem.
-)
+](https://www.hackerrank.com/challenges/30-conditional-statements/problem).
+
 ## Objective
 In this challenge, we learn about conditional statements. 
 
