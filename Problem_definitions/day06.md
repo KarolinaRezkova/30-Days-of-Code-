@@ -26,7 +26,7 @@ Each line `i` of the `T` subsequent lines contain a string, `S`.
 
 ##### Constraints
 - $1 \leq T \leq 10$
-- $2 \leq length of S \leq 10000$
+- $2 \leq length\ of\ S \leq 10000$
 
 ##### Output Format
 For each String $S_j$ (where $0 \leq j \leq T-1$), print  $S_j$'s even-indexed characters, followed by a space, 
