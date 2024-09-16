@@ -33,8 +33,8 @@ denoting the `age` of a Person instance.
 
 ##### Constraints
 
-- $$ 1 \leq T \leq 4 $$
-- $$ -5 \leq age \leq 30 $$
+- $1 \leq T \leq 4$
+- $-5 \leq age \leq 30$
 
 ##### Output Format
 Complete the method definitions provided in the editor, so they meet the specifications outlined above; the code to test 
