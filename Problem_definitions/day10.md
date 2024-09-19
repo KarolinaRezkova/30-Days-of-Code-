@@ -1,4 +1,4 @@
-# Day 9: Recursion
+# Day 10: Binary Numbers
 
 See the original assignment on 
 [Day 10: Binary Numbers | HackerRank
